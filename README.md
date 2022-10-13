@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @awuerth
-- 👀 I’m interested in exploring, motorcycles and graphic design
-- 🌱 I’m currently learning 3D animation, CSS3, repositories
-- 💞️ I’m looking to collaborate on eLearning Education Content; Text, Image, Video, Interactions and portability
+- 👋 Hi, I’m Adrian,  I never hire 
+- 👀 I’m interested in learning. Love Colorado scenery, riding motorcycles, and dogs.
+- 🌱 Current interests include CNC and 3D printing/sculpting. 
+- 💞️ I'm seeking fulltime employment and contract jobs. I've been working with eLearning Educational Content since 2008.
 - 📫 How to reach me email: awuerth2@gmail.com
 
 <!---
